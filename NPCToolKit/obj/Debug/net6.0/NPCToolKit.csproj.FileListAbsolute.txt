@@ -1,0 +1,9 @@
+E:\Stardew Vally Modding\NPCToolKit\bin\Debug\net6.0\manifest.json
+E:\Stardew Vally Modding\NPCToolKit\bin\Debug\net6.0\NPCToolKit.deps.json
+E:\Stardew Vally Modding\NPCToolKit\bin\Debug\net6.0\NPCToolKit.dll
+E:\Stardew Vally Modding\NPCToolKit\obj\Debug\net6.0\NPCToolKit.csproj.AssemblyReference.cache
+E:\Stardew Vally Modding\NPCToolKit\obj\Debug\net6.0\NPCToolKit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stardew Vally Modding\NPCToolKit\obj\Debug\net6.0\NPCToolKit.AssemblyInfoInputs.cache
+E:\Stardew Vally Modding\NPCToolKit\obj\Debug\net6.0\NPCToolKit.AssemblyInfo.cs
+E:\Stardew Vally Modding\NPCToolKit\obj\Debug\net6.0\NPCToolKit.csproj.CoreCompileInputs.cache
+E:\Stardew Vally Modding\NPCToolKit\obj\Debug\net6.0\NPCToolKit.dll

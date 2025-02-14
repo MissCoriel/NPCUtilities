@@ -1,0 +1,10 @@
+﻿{
+  "Name": "MissCoriel's NPC Tool Kit",
+  "Author": "MissCoriel",
+  "Version": "1.0.0",
+  "Description": "Utility tools meant to acquire Data for easier modding.  Works with NPCCreator NT when released!",
+  "UniqueID": "misscoriel.NPCToolKit",
+  "EntryDll": "NPCToolKit.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": [ "" ]
+}
